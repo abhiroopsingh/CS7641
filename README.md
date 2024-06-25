@@ -2,7 +2,7 @@ The code implementation for Assignment 2 (Randomized Optimization) can also be f
 
 To run the code, follow the instructions below.
 
-Library Installation (pip install <library-name>):
+Library Installation (pip install "library-name"):
 - mlrose-hiive
 
 1. After installing the above library, go into the directory that contains the Python files extracted from the Code Files directory.
